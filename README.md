@@ -33,6 +33,7 @@ REMEMBER TO CHANGE THE IP TO THE ROBOT OR SIMULATERE THAT HAVE RELEVANT DATA AVA
 ![Import Node-red](https://github.com/glinvad/Node-Red_RTDE_UR/blob/main/Pictures/Import.jpg)
 - Inset the code from the **Node-Red Code**
 - Change the IP to your UR robot or URSim
+- Have some fun with the data :)
 
 **The Pop Up**
 Just a bonus feature :)
