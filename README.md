@@ -26,6 +26,14 @@ If you are sitting on the same network as a UR robot (E-series or CB3 series) ju
 
 REMEMBER TO CHANGE THE IP TO THE ROBOT OR SIMULATERE THAT HAVE RELEVANT DATA AVALIABLE
 
+**How to import the code**
+- Install Node-Red on your platform
+- Install the Nodes
+- Go to Import in the top corner 
+![Import Node-red](https://github.com/glinvad/Node-Red_RTDE_UR/blob/main/Pictures/Import.jpg)
+- Inset the code from the **Node-Red Code**
+- Change the IP to your UR robot or URSim
+
 **The Pop Up**
 Just a bonus feature :)
 ![I am in control](https://github.com/glinvad/Node-Red_RTDE_UR/blob/main/Pictures/PopUp.jpg)
